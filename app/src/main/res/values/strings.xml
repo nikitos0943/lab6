@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Справочник</string>
+    <string name="default_text">Список студентов</string>
+    <string name="button_text">Показать список</string>
+
+    <string name="button_send">Отправить уведомление</string>
+    <string name="group_number_text">Номер группы:</string>
+    <string name="faculty_text">Факультет:</string>
+    <string name="group_name">Группа</string>
+    <string name="btn_ok_text">Ок</string>
+    <string name="btn_grp_detail_text">Подробнее...</string>
+
+    <string name="edu_level_txt">Уровень образования:</string>
+    <string name="edu_level_bachelor_txt">Бакалавр</string>
+    <string name="edu_level_master_txt">Магистр</string>
+
+    <string name="additional_flg_txt">Дополнительные ведомости: </string>
+    <string name="contract_flg_txt">Наличие контрактников</string>
+    <string name="privilege_flg_txt">Наличие льготников</string>
+
+    <string name="btn_groups_txt">Группы:</string>
+
+    <string name="btn_share">Поделиться:</string>
+
+    <string name="btn_delete">-</string>
+    <string name="btn_add">+</string>
+    <string name="student_name">ФИО:</string>
+</resources>
